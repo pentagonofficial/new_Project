@@ -21,7 +21,7 @@ function Services1() {
         >
           <div className='container'>
             <div className='dlab-bnr-inr-entry'>
-              <h1>Web & App Design</h1>
+              <h1>Company Formation & Accounting</h1>
               {/* <!-- Breadcrumb Row --> */}
               <nav aria-label='breadcrumb' className='breadcrumb-row'>
                 <ul className='breadcrumb'>
@@ -71,10 +71,9 @@ function Services1() {
 					</Link>  
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Social Media Marketing</h4>
+                  <h4 className="dlab-title">Company Registration (LTD/LLC) – UK / US</h4>
                   <p>
-                  Bring Traffic from social media platforms Facebook, Instagram, TikTok. Generate organic leads with well-known influencers and sponsored ad campaigns.
-                  </p>
+                  In Just 3 Simple Steps, Set Up Your Dream Business in USA or UK at No Extra Cost As a new business owner or individual in general, if you want to become truly great at something, invest your time in the 4% here and put that 96% into growing the business.                  </p>
                 </div>
               </div>
        </div>
@@ -99,10 +98,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">eCommerce Stores</h4>
+                  <h4 className="dlab-title">US Employer Identification Number (EIN) - US</h4>
                   <p>
-                  Setup a stunning eCommerce store on Amazon, Shopify, eBay, Walmart, wooCommerce. Sell the most demanding products online – With Dropshipping or Private label Methods.
-                  </p>
+                  Don’t be left behind, this 9-digit number will save your business.Getting your own EIN is a straightforward process, but it can be overwhelming for new business owners. You need to fill out the right forms and send them in at the right time of year. It’s easy to make a mistake and lose money by missing deadlines.                  </p>
                 </div>
               </div>
         </div>
@@ -127,10 +125,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Pay-Per-Click</h4>
+                  <h4 className="dlab-title">Book Keeping, Accounting & Taxation Services – UK</h4>
                   <p>
-                  Get more leads with PPC sponsored campaigns, create a profitable sales funnel with low CTR and High ROI, Start from low-budget campaigns.
-                  </p>
+                  Where do you see your business in the next 5 years? Heard that before? Running a business is hard. It's even harder if you have to do all the accounting and bookkeeping in-house. So for the sake of your business growth, let us do the tax returns, track all expenses and income for the next 1825 days.                  </p>
                 </div>
               </div>
             </div>
@@ -158,10 +155,10 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Graphic Design</h4>
+                  <h4 className="dlab-title">Reseller Certificate in the US</h4>
                   <p>
-                  Create an attractive illustration and design for your brand or product Which converts a customer and generates more leads (Product photography, videography, vector ads, banners, etc. )
-</p>
+                  If you are a reseller or buying for resale in the US, then you need to get things official.
+You can use this document to prove that your business is legitimate and that you’re not trying to evade sales tax. It also helps prevent misunderstandings with your suppliers about what type of transaction it is.</p>
                 </div>
               </div>
         </div>
@@ -188,14 +185,14 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Product Development</h4>
+                  <h4 className="dlab-title">Trademark Filing Services UK</h4>
                   <p>
-                  Hunt a winning product for all markets create market segmentation to find the best selling product add value in product as per the needs of customers including product sourcing with high-profit.</p>
-                </div>
+Need your own unique entity? Tell customers who you are.Just like every other legal work, Consultisor’s ultimate goal is to register your trademark successfully that will protect the brand name, catchphrases, logo and so the products and services.           </p>     </div>
+              
               </div>
         </div>
 
-
+{/* 
         <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
@@ -222,7 +219,7 @@ function Services1() {
                   Complete Market breakdown with product sales forecast finds a gap in market as per on customer demand.</p>
                 </div>
               </div>
-        </div>
+        </div> */}
 
         
 

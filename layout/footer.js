@@ -63,7 +63,7 @@ function Footer() {
 							<h5 className="footer-title">Our links</h5>
 							<ul>
 								<li><Link href="#"><a>Home</a></Link></li>
-								<li><Link href="/case-studies"><a>Case Studies</a></Link></li>
+								<li><Link href="/case-studies"><a>Wall of Trust &#x1F49B;</a></Link></li>
 								<li><Link href="/about-us-1"><a>About Us</a></Link></li>
 								<li><Link href="/contact-us-1"><a>Contact Us</a></Link></li>
 								{/* <li><Link href="#"><a>Blog</a></Link></li> */}
@@ -102,7 +102,7 @@ function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="col-sm-12 text-center"> 
-						<span className="copyright-text">Copyright © 2022 <a href="https://dive91.com/" target="_blank">Dive91</a>. All rights reserved.</span> 
+						<span className="copyright-text">Copyright © 2022 <a href="https://adspitch.net/" target="_blank">adsPitch</a>. All rights reserved.</span> 
 					</div>
                 </div>
             </div>

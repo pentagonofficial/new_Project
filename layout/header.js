@@ -70,35 +70,35 @@ function Header() {
                     <ul className='sub-menu'>
                     <li>
                         <Link href='/services-1/ecommerce'>
-                        <a><b style={{fontSize:"17px"}}>eCommerce</b> <p style={{fontSize:"12px"}}> Sell your product online -Amazon -Shopify and more</p></a>
+                        <a><b style={{fontSize:"14px"}}>Amazon FBA PL</b> <p style={{fontSize:"12px"}}>Build your asset online from high Demand product to profitability</p></a>
                         </Link>
                       </li>
                       <li>
                         <Link href='/services-1/social-media-marketing'>
-                        <a><b style={{fontSize:"17px"}}>Digital Marketing</b> <p style={{fontSize:"12px"}}>Scoial media sponsored campaigns and influencer marketing</p></a>
+                        <a><b style={{fontSize:"14px"}}>Advertising</b> <p style={{fontSize:"12px"}}>Scoial media sponsored campaigns - Google ads - PPC Expert</p></a>
                         </Link>
                       </li>
                       <li>
-                        <Link href='/services-1/web-and-app-design'>
-                          <a><b style={{fontSize:"16px"}}>Web & App Design</b> <p style={{fontSize:"11px"}}> Deliver your business to wider audience</p></a>
+                        <Link href='/services-1/company-formation'>
+                          <a><b style={{fontSize:"14px"}}>Company Formation & Accounting</b> <p style={{fontSize:"12px"}}> Will helps you file your U.S/UK company</p></a>
                          
                         </Link>
                       </li>
                       <li>
                         <Link href='/services-1/seo'>
-                        <a><b style={{fontSize:"17px"}}>Search Engine Optimization</b> <p style={{fontSize:"12px"}}>improving the ranking of a website in search engine listings</p></a>
+                        <a><b style={{fontSize:"14px"}}>Dropishping Store</b> <p style={{fontSize:"12px"}}>Amazon - eBay - Shopify Dropshipping Store to make unlimited profitability</p></a>
                         </Link>
                       </li>
                       <li>
                         <Link href='/services-1/all-services'>
-                        <a><b style={{fontSize:"17px"}}>More Services</b> <p style={{fontSize:"12px"}}>Copywriting - Graphich Design - Brand Building and more.</p></a>
+                        <a><b style={{fontSize:"14px"}}>More Services</b> <p style={{fontSize:"12px"}}>Copywriting - Graphich Design - Brand Building and more.</p></a>
                         </Link>
                       </li>
-                      {/* <li> =============
+                      <li>
                         <Link href='/services-1/shopify'>
-                          <a>Shopify Dropshipping Store</a>
+                        <a><b style={{fontSize:"14px"}}>Wholese Business Online</b> <p style={{fontSize:"12px"}}>Approved top Selling Brand - Be a profitable Wholesaler in 60 days</p></a>
                         </Link>
-                      </li> */}
+                      </li>
                       {/* <li> ===============
                         <Link href='/services-1/shopify'>
                           <a>Amazon FBA & FBM</a>
@@ -129,7 +129,7 @@ function Header() {
                   </li>
                   <li>
                     <Link href='/case-studies'>
-                      <a>Case Studies</a>
+                      <a>Wall of Trust &#x1F49B;</a>
                     </Link>
                   </li>
                   <li>

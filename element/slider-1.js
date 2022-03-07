@@ -32,7 +32,7 @@ function Slider1() {
                     className='wow fadeInUp '
                     
                   >
-                    adsPitch<span className='text-primary'>.net</span> Digital Marketing <span className='text-primary'> Agency</span>{' '}
+                    adsPitch<span className='text-primary'>.net</span> eCommerce Business<span className='text-primary'> Agency</span>{' '}
                    
                   </h1>
                   <p
@@ -70,7 +70,7 @@ function Slider1() {
                         Social Media Marketing
                       </a>
                     </Link>
-                    <Link href='/services-1/brand-building'>
+                    <Link href='/services-1/all-services'>
                       <a
                         className='wow fadeInUp btn text-black'
                         data-wow-delay='2s'
@@ -80,7 +80,7 @@ function Slider1() {
                           animationName: 'fadeInUp',
                         }}
                       >
-                        Sales Growth Consultant
+                        Company Brand Building
                       </a>
                     </Link>
 
@@ -106,7 +106,7 @@ function Slider1() {
                   data-wow-duration='1.6s'
                   data-wow-delay='0.8s'
                 >
-                  <img className='move-1' src='images/move/pic1.png' alt='' />
+                  {/* <img className='move-1' src='images/move/pic1.png' alt='' /> */}
                   <img className='move-2' src='images/move/pic2.png' alt='' />
                   
                 </div>

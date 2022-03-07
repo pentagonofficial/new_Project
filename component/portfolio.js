@@ -21,6 +21,118 @@ function Portfolio() {
       author: "Jhone Doe",
     },
     {
+      title: "Amazon FBA Sales and Product Viability",
+      category: ["amazon_fba"],
+      imageSrc: "/images/projects/pic7.png",
+      img: (
+        <Image
+          src="/images/projects/pic7.png"
+          layout="responsive"
+          width={370}
+          height={370}
+        />
+      ),
+      author: "Jhone Doe",
+    },
+    {
+      title: "Amazon FBA Sales and Product Viability",
+      category: ["shopify_store"],
+      imageSrc: "/images/projects/pic11.jpg",
+      img: (
+        <Image
+          src="/images/projects/pic11.jpg"
+          layout="responsive"
+          width={370}
+          height={370}
+        />
+      ),
+      author: "Jhone Doe",
+    },
+    {
+      title: "Amazon FBA Sales and Product Viability",
+      category: ["amazon_fba", "shopify_store"],
+      imageSrc: "/images/projects/pic12.jpg",
+      img: (
+        <Image
+          src="/images/projects/pic12.jpg"
+          layout="responsive"
+          width={370}
+          height={370}
+        />
+      ),
+      author: "Jhone Doe",
+    },
+    {
+      title: "Amazon FBA Sales and Product Viability",
+      category: ["amazon_fba", "shopify_store"],
+      imageSrc: "/images/projects/pic13.png",
+      img: (
+        <Image
+          src="/images/projects/pic13.png"
+          layout="responsive"
+          width={370}
+          height={370}
+        />
+      ),
+      author: "Jhone Doe",
+    },
+    {
+      title: "Amazon FBA Sales and Product Viability",
+      category: ["all", "marketing"],
+      imageSrc: "/images/projects/pic14.png",
+      img: (
+        <Image
+          src="/images/projects/pic14.png"
+          layout="responsive"
+          width={370}
+          height={370}
+        />
+      ),
+      author: "Jhone Doe",
+    },
+    {
+      title: "Amazon FBA Sales and Product Viability",
+      category: ["all", "marketing"],
+      imageSrc: "/images/projects/pic15.png",
+      img: (
+        <Image
+          src="/images/projects/pic15.png"
+          layout="responsive"
+          width={370}
+          height={370}
+        />
+      ),
+      author: "Jhone Doe",
+    },
+    {
+      title: "Amazon FBA Sales and Product Viability",
+      category: ["all", "marketing"],
+      imageSrc: "/images/projects/pic16.png",
+      img: (
+        <Image
+          src="/images/projects/pic16.png"
+          layout="responsive"
+          width={370}
+          height={370}
+        />
+      ),
+      author: "Jhone Doe",
+    },
+    {
+      title: "Amazon FBA Sales and Product Viability",
+      category: ["all", "amazon_fba"],
+      imageSrc: "/images/projects/pic9.jpg",
+      img: (
+        <Image
+          src="/images/projects/pic9.jpg"
+          layout="responsive"
+          width={370}
+          height={370}
+        />
+      ),
+      author: "Jhone Doe",
+    },
+    {
       title: "Software Landing Page Design",
       category: ["all", "web_development", "branding"],
       imageSrc: "/images/projects/pic4.jpg",
@@ -36,7 +148,7 @@ function Portfolio() {
     },
     {
       title: "Software Landing Page Design",
-      category: ["all", "web_design", "seo"],
+      category: ["web_design", "seo"],
       imageSrc: "/images/projects/pic4.jpg",
       img: (
         <Image
@@ -50,7 +162,7 @@ function Portfolio() {
     },
     {
       title: "Software Landing Page Design",
-      category: ["all", "web_design", "branding"],
+      category: ["web_design", "branding"],
       imageSrc: "/images/projects/pic4.jpg",
       img: (
         <Image
@@ -64,7 +176,7 @@ function Portfolio() {
     },
     {
       title: "Software Landing Page Design",
-      category: ["all", "mobile_app", "seo"],
+      category: ["mobile_app", "seo"],
       imageSrc: "/images/projects/pic4.jpg",
       img: (
         <Image
@@ -78,7 +190,7 @@ function Portfolio() {
     },
     {
       title: "Software Landing Page Design",
-      category: ["all", "branding", "seo"],
+      category: ["branding", "seo"],
       imageSrc: "/images/projects/pic4.jpg",
       img: (
         <Image
@@ -121,20 +233,20 @@ function Portfolio() {
                       All
                     </a>
                   </li>
-                  <li className={`btn ${filter === "web_design" ? "active" : ""}`}>
+                  <li className={`btn ${filter === "amazon_fba" ? "active" : ""}`}>
                     <a
-                      active={"web_design"}
-                      onClick={() => setFilter("web_design")}
+                      active={"amazon_fba"}
+                      onClick={() => setFilter("amazon_fba")}
                     >
-                      Web Design
+                      Amazon FBA
                     </a>
                   </li>
-                  <li className={`btn ${filter === "web_development" ? "active" : ""}`}>
+                  <li className={`btn ${filter === "shopify_store" ? "active" : ""}`}>
                     <a
-                      active={"web_development"}
-                      onClick={() => setFilter("web_development")}
+                      active={"shopify_store"}
+                      onClick={() => setFilter("shopify_store")}
                     >
-                      Web Development
+                      Shopify Store
                     </a>
                   </li>
                   <li className={`btn ${filter === "branding" ? "active" : ""}`}>
@@ -145,12 +257,12 @@ function Portfolio() {
                       Branding
                     </a>
                   </li>
-                  <li className={`btn ${filter === "mobile_app" ? "active" : ""}`}>
+                  <li className={`btn ${filter === "marketing" ? "active" : ""}`}>
                     <a
-                      active={"mobile_app"}
-                      onClick={() => setFilter("mobile_app")}
+                      active={"marketing"}
+                      onClick={() => setFilter("marketing")}
                     >
-                      Mobile App
+                      Marketing
                     </a>
                   </li>
                   <li className={`btn ${filter === "seo" ? "active" : ""}`}>

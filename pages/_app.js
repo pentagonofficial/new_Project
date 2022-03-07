@@ -61,7 +61,7 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <div className='page-wraper'>
         <NextNprogress />
-        <NextNprogress color="#8247F5"/>
+        <NextNprogress color="#EAB94E"/>
         <Component {...pageProps} />
       </div>
 

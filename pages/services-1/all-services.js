@@ -72,10 +72,9 @@ function Services1() {
 					</Link>  
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Social Media Marketing</h4>
+                  <h4 className="dlab-title">Ads Graphics</h4>
                   <p>
-                  Bring Traffic from social media platforms Facebook, Instagram, TikTok. Generate organic leads with well-known influencers and sponsored ad campaigns.
-                  </p>
+                  Create highly optimized product ad graphic design to get customer attraction and convert the click into sales.                  </p>
                 </div>
               </div>
        </div>
@@ -100,11 +99,10 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">eCommerce Stores</h4>
+                  <h4 className="dlab-title">Content Writing</h4>
                   <p>
-                  Setup a stunning eCommerce store on Amazon, Shopify, eBay, Walmart, wooCommerce. Sell the most demanding products online – With Dropshipping or Private label Methods.
-                  </p>
-                </div>
+                  Write best Copywriting describing a product to the customer by highlighting the pain point and making a reason why a customer should purchase the product. </p>       
+                  </div>
               </div>
         </div>
             <div
@@ -128,10 +126,10 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Pay-Per-Click</h4>
+                  <h4 className="dlab-title">Branding</h4>
                   <p>
-                  Get more leads with PPC sponsored campaigns, create a profitable sales funnel with low CTR and High ROI, Start from low-budget campaigns.
-                  </p>
+
+                  Show the product under famous brands to get customer trust, branded products have more selling potential to sell.                  </p>
                 </div>
               </div>
             </div>
@@ -159,16 +157,15 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Graphic Design</h4>
+                  <h4 className="dlab-title">Product Photo and Videography</h4>
                   <p>
-                  Create an attractive illustration and design for your brand or product Which converts a customer and generates more leads (Product photography, videography, vector ads, banners, etc. )
-</p>
+                  Give the feel to the customer how this product work. Make stunning product shoots and videography to increase sales velocity.</p>
                 </div>
               </div>
         </div>
 
 
-        <div
+        {/* <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
               data-wow-delay="0.4s"
@@ -223,7 +220,7 @@ function Services1() {
                   Complete Market breakdown with product sales forecast finds a gap in market as per on customer demand.</p>
                 </div>
               </div>
-        </div>
+        </div> */}
 
         
 

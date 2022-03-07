@@ -72,10 +72,9 @@ function Services1() {
 					</Link>  
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Social Media Marketing</h4>
+                  <h4 className="dlab-title">Amazon FBA</h4>
                   <p>
-                  Bring Traffic from social media platforms Facebook, Instagram, TikTok. Generate organic leads with well-known influencers and sponsored ad campaigns.
-                  </p>
+                  Build and manage Amazon FBA Store. Complete A-Z Service from product hunting to product launching include customer service and amazon PPC.                  </p>
                 </div>
               </div>
        </div>
@@ -100,10 +99,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">eCommerce Stores</h4>
+                  <h4 className="dlab-title">Shopify Stores</h4>
                   <p>
-                  Setup a stunning eCommerce store on Amazon, Shopify, eBay, Walmart, wooCommerce. Sell the most demanding products online – With Dropshipping or Private label Methods.
-                  </p>
+                  Complete Shopify store development and management, custom store development ,Shopify store optimization and sales growth.                  </p>
                 </div>
               </div>
         </div>
@@ -128,10 +126,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Pay-Per-Click</h4>
+                  <h4 className="dlab-title">Amazon PPC</h4>
                   <p>
-                  Get more leads with PPC sponsored campaigns, create a profitable sales funnel with low CTR and High ROI, Start from low-budget campaigns.
-                  </p>
+                  Get more leads with Amazon sponsored campaigns, create a profitable sales funnel with low CTR and High ROI, Start from low-budget campaigns.                  </p>
                 </div>
               </div>
             </div>
@@ -159,10 +156,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Graphic Design</h4>
+                  <h4 className="dlab-title">Dropshipping</h4>
                   <p>
-                  Create an attractive illustration and design for your brand or product Which converts a customer and generates more leads (Product photography, videography, vector ads, banners, etc. )
-</p>
+                  Highly converting and profitable dropshipping store on amazon, ebay and shopify. List thousand of product and create niche base store.</p>
                 </div>
               </div>
         </div>

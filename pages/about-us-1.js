@@ -69,7 +69,7 @@ function AboutUs1() {
                   </h2>
                 </div>
                 <p>
-                Dive91 is Well growing marketing agency in Virginia United States over the trust of 100+ companies and build-up 180+ Brands worldwide we have expertise of Digital Marketing, Brand Building, eCommerce Business Development. Our Journey is started in 2018 as a service provider company now we are working as Product Bases business management too.
+                adsPtich is Well growing marketing agency in Virginia United States over the trust of 100+ companies and build-up 180+ Brands worldwide we have expertise of Digital Marketing, Brand Building, eCommerce Business Development. Our Journey is started in 2018 as a service provider company now we are working as Product Bases business management too.
                 </p>
                 <p className='m-b30'>
                 Our customer-oriented approach, dedication to meet deadlines, and high professional standards are what make our company one of the best in the industry.

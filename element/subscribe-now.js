@@ -60,13 +60,11 @@ export default function SubscribeNow() {
             <div className='section-head style-1 text-white'>
               <h6 className='sub-title bgl-light m-b20'>Newsletter</h6>
               <h2 className='title m-b30'>
-                Subscribe To Our Newsletter For Latest Update Of Finanical
-                Services{' '}
+              Subscribe To Our For Latest Update Of Marketing
+              {' '}
               </h2>
               <p>
-                Curabitur eleifend nibh sit amet ex posuere, vel malesuada
-                turpis pretium. Quisque et tincidunt risus, a tempor massa. Cras
-                tempor egestas libero, eu laoreet enim pharetra non.
+              Get in Touch with us and receive the latest updates, strategies about social media marketing and online product selling.
               </p>
             </div>
             <div className='dlab-subscribe style-2 max-w500'>

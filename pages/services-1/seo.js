@@ -72,10 +72,9 @@ function Services1() {
 					</Link>  
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Social Media Marketing</h4>
+                  <h4 className="dlab-title">On-Page SEO</h4>
                   <p>
-                  Bring Traffic from social media platforms Facebook, Instagram, TikTok. Generate organic leads with well-known influencers and sponsored ad campaigns.
-                  </p>
+                  Effective on-page SEO is built on high-quality, informative content. And not just slightly informative—content that's really going to rank well has to solve problems.                  </p>
                 </div>
               </div>
        </div>
@@ -100,9 +99,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">eCommerce Stores</h4>
+                  <h4 className="dlab-title">Off-Page SEO</h4>
                   <p>
-                  Setup a stunning eCommerce store on Amazon, Shopify, eBay, Walmart, wooCommerce. Sell the most demanding products online – With Dropshipping or Private label Methods.
+                  Getting links from authoritative sites can make a huge difference in how your site is ranked.
                   </p>
                 </div>
               </div>
@@ -128,9 +127,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Pay-Per-Click</h4>
+                  <h4 className="dlab-title">App Store Optimization</h4>
                   <p>
-                  Get more leads with PPC sponsored campaigns, create a profitable sales funnel with low CTR and High ROI, Start from low-budget campaigns.
+                  Apple's App Store and Google's Play Store—get a phenomenal amount of searches every day.
                   </p>
                 </div>
               </div>
@@ -138,7 +137,7 @@ function Services1() {
 
 {/* NEW Item  */}
 
-<div
+{/* <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
               data-wow-delay="0.4s"
@@ -165,10 +164,10 @@ function Services1() {
 </p>
                 </div>
               </div>
-        </div>
+        </div> */}
 
 
-        <div
+        {/* <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
               data-wow-delay="0.4s"
@@ -223,7 +222,7 @@ function Services1() {
                   Complete Market breakdown with product sales forecast finds a gap in market as per on customer demand.</p>
                 </div>
               </div>
-        </div>
+        </div> */}
 
         
 

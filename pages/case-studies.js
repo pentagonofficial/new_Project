@@ -20,7 +20,7 @@ function Services1() {
         >
           <div className='container'>
             <div className='dlab-bnr-inr-entry'>
-              <h1>Case Studies</h1>
+              <h1>Wall of Trust &#x1F49B;</h1>
               {/* <!-- Breadcrumb Row --> */}
               <nav aria-label='breadcrumb' className='breadcrumb-row'>
                 <ul className='breadcrumb'>

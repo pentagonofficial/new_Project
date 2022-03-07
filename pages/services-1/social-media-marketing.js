@@ -99,10 +99,10 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">eCommerce Stores</h4>
+                  <h4 className="dlab-title">Influnecer Marekting</h4>
                   <p>
-                  Setup a stunning eCommerce store on Amazon, Shopify, eBay, Walmart, wooCommerce. Sell the most demanding products online – With Dropshipping or Private label Methods.
-                  </p>
+                  Display the real picture of your product by well reputed Instagram and TikTok influencers, show the world how your product useful for your targeted audience.
+                </p>
                 </div>
               </div>
         </div>
@@ -127,10 +127,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Pay-Per-Click</h4>
+                  <h4 className="dlab-title">Email Makreting</h4>
                   <p>
-                  Get more leads with PPC sponsored campaigns, create a profitable sales funnel with low CTR and High ROI, Start from low-budget campaigns.
-                  </p>
+                  Cheapest and highly converting product marketing to get more leads with small budget best marketing strategies for start to the end of your business.                  </p>
                 </div>
               </div>
             </div>
@@ -158,10 +157,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Graphic Design</h4>
+                  <h4 className="dlab-title">Display Advertising</h4>
                   <p>
-                  Create an attractive illustration and design for your brand or product Which converts a customer and generates more leads (Product photography, videography, vector ads, banners, etc. )
-</p>
+                  Show your product with most attractive and converting graphic design, give the brand message to your site visitors.</p>
                 </div>
               </div>
         </div>
@@ -188,9 +186,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Product Development</h4>
+                  <h4 className="dlab-title">Affiliate Marketing.</h4>
                   <p>
-                  Hunt a winning product for all markets create market segmentation to find the best selling product add value in product as per the needs of customers including product sourcing with high-profit.</p>
+                  Grab audience from google ranked websites pay a small commission to affiliate and build more customer trust.                  </p>
                 </div>
               </div>
         </div>
@@ -217,9 +215,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Market Evaluation</h4>
+                  <h4 className="dlab-title">Listings</h4>
                   <p>
-                  Complete Market breakdown with product sales forecast finds a gap in market as per on customer demand.</p>
+                  Control how your business looks on 50+ directories, websites and apps. Changing your hours? Do it once, and watch it update everywhere</p>
                 </div>
               </div>
         </div>

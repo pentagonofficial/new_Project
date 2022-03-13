@@ -51,7 +51,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>adsPitch- Marketing Agency</title>
+        <title>Machuu- Marketing Agency</title>
         <link
           rel='icon'
           type='image/png'

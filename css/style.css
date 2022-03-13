@@ -19745,7 +19745,7 @@ icon-bx-wraper style-4:hover .icon-cell i,
 }
 .logo-header img {
   height: auto;
-  width: 130%;
+  width: 100%;
 }
 .logo-header span {
   font-size: 20px;
@@ -21102,6 +21102,7 @@ footer .widget_getintuch ul li i {
 }
 .site-footer.style-1 .footer-top {
   background: transparent;
+  background-color: #1E1E1E;
 }
 .site-footer.style-1 .footer-top .widget_services {
   padding-left: 100px;

@@ -24,7 +24,7 @@ function Footer() {
 									</Link>	
 								</div>
 								<div className="icon-content">
-									<p>+92 313 8654020,<br/>+44 786 8692172<br/>info@adspitch.net</p>
+									<p>+92 313 8654020,<br/>+44 786 8692172<br/>hello@machuu.com</p>
 								</div>
 							</div>
 						</div>
@@ -48,7 +48,7 @@ function Footer() {
 					<div className="col-xl-4 col-lg-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                         <div className="widget widget_about">
 							<h5 className="footer-title">About Us</h5>
-							<p>adsPitch is Well growing marketing agency in Virginia United States over the trust of 100+ companies and build-up 180+ Brands worldwide we have expertise of Digital Marketing, Brand Building, eCommerce Business Development.</p>
+							<p>Machuu is Well growing marketing agency in Virginia United States over the trust of 100+ companies and build-up 180+ Brands worldwide we have expertise of Digital Marketing, Brand Building, eCommerce Business Development.</p>
 							<div className="dlab-social-icon">
 								<ul>
 									<li><a className="fa fa-facebook" href="https://en-gb.facebook.com/"></a></li>
@@ -74,10 +74,10 @@ function Footer() {
 						<div className="widget widget_services">
 							<h5 className="footer-title">Our Services</h5>
 							<ul>
-								<li><Link href="/services-1/web-and-app-design"><a>Web & App Design</a></Link></li>
-								<li><Link href="/services-1/ecommerce"><a>eCommerce</a></Link></li>
-								<li><Link href="/services-1/social-media-marketing"><a>Digital Marketing</a></Link></li>
-								<li><Link href="/services-1/seo"><a>Search Engine Optimization</a></Link></li>
+								<li><Link href="/services-1/web-and-app-design"><a>Amazon FBA PL</a></Link></li>
+								<li><Link href="/services-1/ecommerce"><a>Advertising</a></Link></li>
+								<li><Link href="/services-1/social-media-marketing"><a>Company Formation & Accounting</a></Link></li>
+								<li><Link href="/services-1/seo"><a>Dropshipping Store</a></Link></li>
 								<li><Link href="/services-1/all-services"><a>More Services</a></Link></li>
 							</ul>
 						</div>
@@ -102,7 +102,7 @@ function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="col-sm-12 text-center"> 
-						<span className="copyright-text">Copyright © 2022 <a href="https://adspitch.net/" target="_blank">adsPitch</a>. All rights reserved.</span> 
+						<span className="copyright-text">Copyright © 2022 <a href="https://Machuu.com/" target="_blank">Machuu</a>. All rights reserved.</span> 
 					</div>
                 </div>
             </div>

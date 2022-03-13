@@ -32,7 +32,7 @@ function Slider1() {
                     className='wow fadeInUp '
                     
                   >
-                    adsPitch<span className='text-primary'>.net</span> eCommerce Business<span className='text-primary'> Agency</span>{' '}
+                    Machuu<span className='text-primary'>.com</span> eCommerce Agency in<span className='text-primary'> California</span>{' '}
                    
                   </h1>
                   <p
@@ -40,7 +40,7 @@ function Slider1() {
                     data-wow-delay='1.5s'
                     className='wow fadeInUp m-b30'
                   >
-                    adsPithc Marketing Agency in California to provide various service which create and help you to grow a business,
+                    Machuu Marketing Agency in California to provide various service which create and help you to grow a business,
                     Make Your Company top standing in their niche.
                   </p>
                   <Link href='#newConsult'>

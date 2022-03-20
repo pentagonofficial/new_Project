@@ -90,15 +90,16 @@ function Header() {
                         </Link>
                       </li>
                       <li>
-                        <Link href='/services-1/all-services'>
-                        <a><b style={{fontSize:"14px"}}>More Services</b> <p style={{fontSize:"12px"}}>Copywriting - Graphich Design - Brand Building and more.</p></a>
-                        </Link>
-                      </li>
-                      <li>
                         <Link href='/services-1/shopify'>
                         <a><b style={{fontSize:"14px"}}>Wholese Business Online</b> <p style={{fontSize:"12px"}}>Approved top Selling Brand - Be a profitable Wholesaler in 60 days</p></a>
                         </Link>
                       </li>
+                      <li>
+                        <Link href='/services-1/all-services'>
+                        <a><b style={{fontSize:"14px"}}>More Services</b> <p style={{fontSize:"12px"}}>Copywriting - Graphich Design - Brand Building - Shopify Store and more.</p></a>
+                        </Link>
+                      </li>
+                      
                       {/* <li> ===============
                         <Link href='/services-1/shopify'>
                           <a>Amazon FBA & FBM</a>

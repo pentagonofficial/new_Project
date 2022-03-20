@@ -35,7 +35,7 @@ function Quote() {
       <section id="newConsult"
         className='content-inner'
         style={{ backgroundImage: 'url(images/background/bg1.png)' }}
-        id='contact'
+        
       >
         <div className='container'>
           <div className='row align-items-center'>

@@ -13706,9 +13706,9 @@ textarea {
 .gradient {
   background-image: linear-gradient(
     to right,
-     #000 0,
-    #000 51%,
-    #000 100%
+    #EAB94E 0,
+    #EAB94E 51%,
+    #EAB94E 100%
   
   );
   background-size: 200%;
@@ -15011,7 +15011,7 @@ textarea {
 .dlab-img-overlay9.overlay-primary,
 .dlab-img-overlay11.overlay-primary,
 .dlab-img-overlay12.overlay-primary {
-  background: #EAB94E;
+  background: #1e1e1e;
 }
 
 .dlab-box:hover .dlab-img-overlay1:before {
@@ -15261,7 +15261,7 @@ textarea {
 .overlay-primary-middle:before,
 .overlay-primary-dark:before,
 .overlay-primary:before {
-  background: #EAB94E;
+  background: #1e1e1e;
 }
 
 .overlay-primary-light:before,
@@ -19745,7 +19745,7 @@ icon-bx-wraper style-4:hover .icon-cell i,
 }
 .logo-header img {
   height: auto;
-  width: 100%;
+  width: 120%;
 }
 .logo-header span {
   font-size: 20px;
@@ -21098,7 +21098,7 @@ footer .widget_getintuch ul li i {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: #EAB94E;
+  background-color:#EAB94E;
 }
 .site-footer.style-1 .footer-top {
   background: transparent;

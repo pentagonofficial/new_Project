@@ -52,7 +52,7 @@ function AboutUs1() {
                 data-wow-delay='0.2s'
               >
                 <div className='dz-media'>
-                  <img src='images/about/img4.png' className='move-3' alt='' />
+                  <img src='images/about/img4.png' className='move-3' width={500} alt='' />
                 </div>
               </div>
               <div

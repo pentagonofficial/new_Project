@@ -74,10 +74,46 @@ function Services1() {
                 <div className="icon-content">
                   <h4 className="dlab-title">Ads Graphics</h4>
                   <p>
-                  Create highly optimized product ad graphic design to get customer attraction and convert the click into sales.                  </p>
+                  Create highly optimized product ad graphic design to get customer attraction and convert the click into sales.</p>
                 </div>
               </div>
        </div>
+
+
+
+
+
+       <div
+              className="col-lg-4 col-md-6 wow fadeInUp"
+              data-wow-duration="2s"
+              data-wow-delay="0.4s"
+            >
+              <div
+                className={`${
+                  open === "p4"
+                    ? "icon-bx-wraper style-1 box-hover text-center m-b30 active"
+                    : "icon-bx-wraper style-1 box-hover text-center m-b30"
+                }`}
+                onMouseOver={() => setOpen("p4")}
+              >
+                <div className="icon-bx-md radius bg-orange shadow-orange">
+					<Link href="#">	
+						<a className="icon-cell">
+							<i className="flaticon-office"></i>
+						</a>
+					</Link>	
+                </div>
+                <div className="icon-content">
+                  <h4 className="dlab-title">Shopify Store</h4>
+                  <p>
+                  Complete Shopify store development and management, custom store development , Shopify store optimization, and sales growth.</p>
+                </div>
+              </div>
+        </div>
+
+
+
+
             <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
@@ -163,6 +199,8 @@ function Services1() {
                 </div>
               </div>
         </div>
+
+
 
 
         {/* <div

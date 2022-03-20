@@ -21,7 +21,7 @@ function Services1() {
         >
           <div className='container'>
             <div className='dlab-bnr-inr-entry'>
-              <h1>Ecommerce</h1>
+              <h1>Amazon FBA PL</h1>
               {/* <!-- Breadcrumb Row --> */}
               <nav aria-label='breadcrumb' className='breadcrumb-row'>
                 <ul className='breadcrumb'>
@@ -72,9 +72,9 @@ function Services1() {
 					</Link>  
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Amazon FBA</h4>
+                  <h4 className="dlab-title">Product Hunting & Sourcing</h4>
                   <p>
-                  Build and manage Amazon FBA Store. Complete A-Z Service from product hunting to product launching include customer service and amazon PPC.                  </p>
+                  Unique product researching method to find a winning product according to investment and category. Source product on targeted margins from Alibaba, 1688, and in-ground sourcing agent in china.                  </p>
                 </div>
               </div>
        </div>
@@ -99,9 +99,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Shopify Stores</h4>
+                  <h4 className="dlab-title">Listing Optimization</h4>
                   <p>
-                  Complete Shopify store development and management, custom store development ,Shopify store optimization and sales growth.                  </p>
+                  Optimized amazon product listing by in-depth keyword research and content writing techniques. Most highly optimized content converts traffic into sales.                  </p>
                 </div>
               </div>
         </div>
@@ -156,9 +156,10 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Dropshipping</h4>
+                  <h4 className="dlab-title">Market Evaluation & Breakdown</h4>
                   <p>
-                  Highly converting and profitable dropshipping store on amazon, ebay and shopify. List thousand of product and create niche base store.</p>
+                  Complete Market breakdown with product sales forecast finds a gap in the market as per on customer demand.
+</p>
                 </div>
               </div>
         </div>
@@ -187,7 +188,8 @@ function Services1() {
                 <div className="icon-content">
                   <h4 className="dlab-title">Product Development</h4>
                   <p>
-                  Hunt a winning product for all markets create market segmentation to find the best selling product add value in product as per the needs of customers including product sourcing with high-profit.</p>
+                  Once the product is hunted before jumping in the market find the USP (Unique Selling Proposition) by complete market analysis and customer demand which brings the product to another level.
+</p>
                 </div>
               </div>
         </div>
@@ -214,9 +216,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Market Evaluation</h4>
+                  <h4 className="dlab-title">Customer Support</h4>
                   <p>
-                  Complete Market breakdown with product sales forecast finds a gap in market as per on customer demand.</p>
+                  Providing customer support on amazon seller central. Resolve customer issues answer the question to the customer on time Fastest Response time.</p>
                 </div>
               </div>
         </div>

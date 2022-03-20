@@ -21,7 +21,7 @@ function Services1() {
         >
           <div className='container'>
             <div className='dlab-bnr-inr-entry'>
-              <h1>Social Media Marketing</h1>
+              <h1>Advertising</h1>
               {/* <!-- Breadcrumb Row --> */}
               <nav aria-label='breadcrumb' className='breadcrumb-row'>
                 <ul className='breadcrumb'>
@@ -99,9 +99,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Influnecer Marekting</h4>
+                  <h4 className="dlab-title">Influencer Marketing</h4>
                   <p>
-                  Display the real picture of your product by well reputed Instagram and TikTok influencers, show the world how your product useful for your targeted audience.
+                  Another way to show your product by well reputed Instagram and TikTok influencers, show the world how your product useful for your targeted audience.
                 </p>
                 </div>
               </div>
@@ -157,7 +157,7 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Display Advertising</h4>
+                  <h4 className="dlab-title">Google Ads</h4>
                   <p>
                   Show your product with most attractive and converting graphic design, give the brand message to your site visitors.</p>
                 </div>
@@ -194,7 +194,7 @@ function Services1() {
         </div>
 
 
-        <div
+        {/* <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
               data-wow-delay="0.4s"
@@ -215,12 +215,12 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Listings</h4>
+                  <h4 className="dlab-title"></h4>
                   <p>
                   Control how your business looks on 50+ directories, websites and apps. Changing your hours? Do it once, and watch it update everywhere</p>
                 </div>
               </div>
-        </div>
+        </div> */}
 
         
 

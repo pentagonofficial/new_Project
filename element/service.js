@@ -48,7 +48,7 @@ function Service() {
 					</Link>  
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Social Media Marketing</h4>
+                  <h4 className="dlab-title">Amazon FBA PL</h4>
                   <p>
                   Bring Traffic from social media platforms Facebook, Instagram, TikTok. Generate organic leads with well-known influencers and sponsored ad campaigns.
                   </p>
@@ -76,7 +76,7 @@ function Service() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">eCommerce Stores</h4>
+                  <h4 className="dlab-title">eCommerce Dropshipping</h4>
                   <p>
                   Setup a stunning eCommerce store on Amazon, Shopify, eBay, Walmart, wooCommerce. Sell the most demanding products online – With Dropshipping or Private label Methods.
                   </p>
@@ -104,7 +104,7 @@ function Service() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Pay-Per-Click</h4>
+                  <h4 className="dlab-title">PPC Campaigns</h4>
                   <p>
                   Get more leads with PPC sponsored campaigns, create a profitable sales funnel with low CTR and High ROI, Start from low-budget campaigns.
                   </p>
@@ -165,7 +165,7 @@ function Service() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Product Development</h4>
+                  <h4 className="dlab-title">Product Researching</h4>
                   <p>
                   Hunt a winning product for all markets create market segmentation to find the best selling product add value in product as per the needs of customers including product sourcing with high-profit.</p>
                 </div>
@@ -194,7 +194,7 @@ function Service() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Market Evaluation</h4>
+                  <h4 className="dlab-title">Company Formation & Tax Filling</h4>
                   <p>
                   Complete Market breakdown with product sales forecast finds a gap in market as per on customer demand.</p>
                 </div>

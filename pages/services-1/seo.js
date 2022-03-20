@@ -21,7 +21,7 @@ function Services1() {
         >
           <div className='container'>
             <div className='dlab-bnr-inr-entry'>
-              <h1>SEO</h1>
+              <h1>Dropshipping</h1>
               {/* <!-- Breadcrumb Row --> */}
               <nav aria-label='breadcrumb' className='breadcrumb-row'>
                 <ul className='breadcrumb'>
@@ -72,9 +72,9 @@ function Services1() {
 					</Link>  
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">On-Page SEO</h4>
+                  <h4 className="dlab-title">Dropshipping Products</h4>
                   <p>
-                  Effective on-page SEO is built on high-quality, informative content. And not just slightly informative—content that's really going to rank well has to solve problems.                  </p>
+                  Find hundreds of products Potentially selling on all big platforms amazon, eBay, Walmart, and set up the store to make products online.</p>
                 </div>
               </div>
        </div>
@@ -99,9 +99,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Off-Page SEO</h4>
+                  <h4 className="dlab-title">Order Management</h4>
                   <p>
-                  Getting links from authoritative sites can make a huge difference in how your site is ranked.
+                  Dropshipping store complete order management services to handle thousands of orders a day, Dispatch orders etc.
                   </p>
                 </div>
               </div>
@@ -127,10 +127,9 @@ function Services1() {
 					</Link>	
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">App Store Optimization</h4>
+                  <h4 className="dlab-title">Account Stability</h4>
                   <p>
-                  Apple's App Store and Google's Play Store—get a phenomenal amount of searches every day.
-                  </p>
+                  Build a long term stable account by following platform policies to make sure will not go against policies and build strong asset.                  </p>
                 </div>
               </div>
             </div>

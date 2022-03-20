@@ -60,7 +60,7 @@ function AboutUs() {
               <p className='m-b30'>
               Our customer-oriented approach, dedication to meet deadlines, and high professional standards are what make our company one of the best in the industry.
               </p>
-              <img src='images/sign.png' alt='' />
+              {/* <img src='images/sign.png' alt='' /> */}
               <h4 className='m-b30'>CEO Muhammad Ali</h4>
               <Link href='/about-us-1'>
                 <a className='btn btn-link d-inline-flex align-items-center'>

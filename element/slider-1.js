@@ -11,10 +11,10 @@ function Slider1() {
         <div className='container'>
           <div className='banner-inner'>
             <div className='img1'>
-              <img src='images/main-slider/slider1/pic3.png' alt='' />
+              {/* <img src='images/main-slider/slider1/pic3.png' alt='' /> */}
             </div>
             <div className='img2'>
-              <img src='images/main-slider/slider1/pic4.png' alt='' />
+              {/* <img src='images/main-slider/slider1/pic4.png' alt='' /> */}
             </div>
             <div className='row align-items-center'>
               <div className='col-md-6'>
